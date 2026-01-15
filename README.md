@@ -1,4 +1,5 @@
-# Markdown ↔ HTML Converter ✨  
+Markdown ↔ HTML Converter ✨  
+===
 *Convert effortlessly between markdown and HTML*
 
 ## About
